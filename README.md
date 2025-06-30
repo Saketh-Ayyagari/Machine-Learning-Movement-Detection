@@ -1,1 +1,2 @@
-Research Project where a direction a mammal moves in is predicted given neural data including spike rate, spike count, etc.
+# About this Project
+This research project predicts a mammal's direction of movement given neural data, including spike rate, spike count, etc.
